@@ -26,4 +26,4 @@ Feature: Validate Creation of new User
 
     Examples: 
       | CustomerName | Gender | DateOfBirth | Address        | City     | State    | PIN     | MobileNumber | Email               | Password |
-      | John Smith   | Male   | 15-05-1990  | 12 Park Street | New York | New York | 1000019 |   9876543210 | john.smith7@test.com | Pass@123 |
+      | John Smith   | Male   | 15-05-1990  | 12 Park Street | New York | New York | 1000019 |   9876543210 | john.smibgtth7@test.com | Pass@123 |
